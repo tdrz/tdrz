@@ -24,7 +24,7 @@ Contracting for various companies around the world.
 
 - :tv: Developed a physical-store [display solution](https://www.digitec.ch/en/page/1000-raspberry-pi-and-why-the-7-display-was-sold-out-1870) (with Rasperry Pis♥) while at [digitec](https://digitec.ch/) - [galaxus](https://galaxus.ch/). It is still running in 10 locations across Switzerland.
 
-I'm open to doing interesting work! I'm based in Luzern, Switzerland. Reach out at my gh handle dot zaharia dot ch.
+I'm open to doing interesting work! Reach out at my gh handle dot zaharia dot ch.
 
 <!--
 **tdrz/tdrz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
