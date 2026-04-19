@@ -16,7 +16,7 @@ Contracting for various companies around the world.
 
 - :iphone: Built cophone from the ground up, by myself.
 
-- :sunflower: Built a video streaming solution for drones (at Sunflowerlabs).
+- :sunflower: Built a video streaming solution for drones (at [Sunflowerlabs](https://sunflower-labs.com/)).
 
 - :stew: Contributed to the [mediasoup](https://mediasoup.org) ecosystem.
 
