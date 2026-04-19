@@ -14,7 +14,7 @@ Contracting for various companies around the world.
 
 - :arrow_heading_up: Taken [PGlite](https://pglite.dev) from <100k to over 6M weekly downloads.
 
-- :iphone: Built cophone from the ground up, by myself.
+- :iphone: Built [cophone](https://cophone.io/) from the ground up, by myself.
 
 - :sunflower: Built a video streaming solution for drones (at [Sunflowerlabs](https://sunflower-labs.com/)).
 
