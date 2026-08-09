@@ -12,7 +12,7 @@ Contracting for various companies around the world.
 
 ## Some interesting things I've done/doing :honeybee:
 
-- :arrow_heading_up: Taken [PGlite](https://pglite.dev) from <100k to over 10M weekly downloads.
+- :arrow_heading_up: Taken [PGlite](https://pglite.dev) from <100k to over 13M weekly downloads.
 
 - :iphone: Built [cophone](https://cophone.io/) from the ground up, by myself.
 
